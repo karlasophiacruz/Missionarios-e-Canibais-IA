@@ -1,18 +1,11 @@
-<center>
+<p align="center">
+  <img src= logo.png />
+</p>
 
-![logo](logo.png)
+<h3 align = "center">UNIVERSIDADE FEDERAL DE ALAGOAS - UFAL <br /> INSTITUTO DE COMPUTAÇÃO - IC <br /> Engenharia de Computação</h3 >
 
-## UNIVERSIDADE FEDERAL DE ALAGOAS - UFAL 
-## INSTITUTO DE COMPUTAÇÃO - IC
-### Engenharia de Computação 
-
----
-# Problema dos Missionários e Canibais
-
-</center>
-
-> ### Três missionários e três canibais estão em um lado do rio, juntamente com um barco que pode conter uma ou duas pessoas. Descubra um meio de fazer todos atravessarem o rio, sem deixar que um grupo de missionários de um lado fique em número menor que o número de canibais nesse lado do rio. Esse problema é famoso em IA, porque foi assunto do primeiro artigo que abordou a formulação de problemas a partir de um ponto de vista analítico (Amarel, 1968). 
-> ### Implemente e resolva o problema de forma ótima, utilizando um algoritmo de busca apropriado. É boa idéia verificar a existência de estados repetidos?
+> Três missionários e três canibais estão em um lado do rio, juntamente com um barco que pode conter uma ou duas pessoas. Descubra um meio de fazer todos atravessarem o rio, sem deixar que um grupo de missionários de um lado fique em número menor que o número de canibais nesse lado do rio. Esse problema é famoso em IA, porque foi assunto do primeiro artigo que abordou a formulação de problemas a partir de um ponto de vista analítico (Amarel, 1968). 
+> Implemente e resolva o problema de forma ótima, utilizando um algoritmo de busca apropriado. É boa idéia verificar a existência de estados repetidos?
 
 <br />
 
